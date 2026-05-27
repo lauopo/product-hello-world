@@ -1,17 +1,12 @@
 [
   {
-    "title": "Self-serve onboarding flow",
-    "year": 2025,
-    "summary": "Rebuilt the new-customer onboarding from a 6-step wizard into a single guided checklist. Time-to-first-value dropped from 14 days to 3."
+    "title": "Instant Spend Cards",
+    "year": "2026",
+    "summary": "Designed and launched an Instant Spend feature allowing approved users to provision cards immediately to digital wallets. Eliminated the traditional 10-working-day waiting period for physical cards, driving a massive surge in activation rate and day-one transaction volume."
   },
   {
-    "title": "Refunds API v2",
-    "year": 2024,
-    "summary": "Led the cross-team rewrite of our refunds platform. Halved support tickets and unblocked three enterprise deals."
-  },
-  {
-    "title": "Mobile dashboard",
-    "year": 2023,
-    "summary": "Shipped the first mobile experience for our merchant dashboard. 38% of active merchants now check in on mobile weekly."
+    "title": "FlexiPay Automation & Acquisition",
+    "year": "2024",
+    "summary": "Led three cross-functional engineering teams to optimize the acquisition experience for FlexiPay. Transformed a heavily manual process into a seamless, cost-efficient, and end-to-end automated lending solution, unlocking instant access to short-term financing for small businesses."
   }
 ]
